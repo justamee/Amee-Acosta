@@ -1,6 +1,6 @@
 ## 👏 Hi, I am Amee Acosta
 ##  I am a jack of all trades and a master of none. 
-I am currently a claim property manager, a Mom and a dedicated runner who has a love for weight training and developing strength in all areas of life. 
+I am currently a student, a leader, a Mom and a dedicated runner who has a love for weight training and developing strength in all areas of life. 
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
